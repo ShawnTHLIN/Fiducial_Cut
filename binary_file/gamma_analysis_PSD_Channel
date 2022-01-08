@@ -1,11 +1,3 @@
-// Programmer: Dr. J (aka Jason Nattress)
-// Purpose:
-// Date: 2/3/2018
-// Compliation command: 
-// g++ mainBinary.cc WaveClass.cc HistoClass.cc `root-config --libs --cflags` -o main -O3 -ftree-vectorize
-// Execution command: ./main /path/to/file outputFileName
-// output file will be store in directory called "processed"
-// to do: need to fix analyze class to mesh with new HistoClass.... done... I think
 /////////////////////////////////////////////////////////
 //**#include "analyze.h"
 //**#include "HistoClass.h"
